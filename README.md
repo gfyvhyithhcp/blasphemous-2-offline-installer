@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+The Penitent One awakens as Blasphemous 2 joins him once again in an endless struggle against The Miracle. Dive into a perilous new world filled with mysteries and secrets to discover, and tear your way through monstrous foes that stand between you and your quest to end the cycle once and for all.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,11 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 | macOS 11.0 or later |
+| **Processor** | Min: Intel Core 2 Duo E8400 or AMD Phenom II X2 550 / Rec: Intel Core i3-550 or AMD FX-4100 | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 4 GB RAM / Rec: 6 GB RAM | 4 GB RAM |
+| **Graphics** | Min: NVIDIA GeForce GT 520, 1 GB or AMD Radeon HD 7470, 1 GB… / Rec: NVIDIA GeForce GT 710, 1 GB or AMD Radeon R7 240, 1 GB … | Metal-capable GPU |
+| **Storage** | 4 GB available space | 4 GB available space |
 
 ---
 
